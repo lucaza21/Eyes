@@ -8,7 +8,8 @@ The eyes web page uses the convination of HTML, JS and CSS to create a funny int
 Here you will be able to five movement to the eyes while they are following the mouse through the screen.
 
 ## Usage: 
-It helps to understand how to use html adding elements into the DOM adn giving them interactivity with the user.
+It helps to understand how to use html adding elements into the DOM and giving them interactivity with the user.
+After download the repo, please open the index.htlm file and move your mouse through the screen. the eyes will start to follow the mouse.
 
 ## Support:
 You can contact me by email: luis.carrasquilla.z@gmail.com
