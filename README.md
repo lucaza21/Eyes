@@ -1,20 +1,19 @@
-# Eyes
-## Exercise on eyes
-
-# Name: 
-pacman running through the screen 
-  
-# Description: 
-the eyes web page uses HTML, JS and CSS to create the interaction between the user and the screen.
-
-# Usage: 
-it helps to understand how to use html adding elements into the DOM adn giving them interactivity with the user.
-
-# Support:
-you can contact me by email: luis.carrasquilla.z@gmail.com
-
-# License information:  
-this project has been made in the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN
-
-
+# Eyes Movement
+ 
 <img src= "eye.png" width='300'/>
+# https://lucaza21.github.io/Eyes/
+
+## Description: 
+The eyes web page uses the convination of HTML, JS and CSS to create a funny interaction between the user and the screen.
+Here you will be able to five movement to the eyes while they are following the mouse through the screen.
+
+## Usage: 
+It helps to understand how to use html adding elements into the DOM adn giving them interactivity with the user.
+
+## Support:
+You can contact me by email: luis.carrasquilla.z@gmail.com
+
+## License information:  
+This project has been made in the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN
+
+
