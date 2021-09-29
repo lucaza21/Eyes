@@ -12,7 +12,11 @@ It helps to understand how to use html adding elements into the DOM and giving t
 After download the repo, please open the index.htlm file and move your mouse through the screen. the eyes will start to follow the mouse.
 
 ## Support:
-You can contact me by email: luis.carrasquilla.z@gmail.com
+Email: <luis.carrasquilla.z@gmail.com> / 
+Linkedin: **[Luis Carrasquilla](https://www.linkedin.com/in/luis-carrasquilla/)** 
+
+## Roadmap
+I'm planning to create randomly new eyes with each mouse click.
 
 ## License information:  
 This project has been made in the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN
